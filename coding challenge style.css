@@ -1,0 +1,58 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+body{
+    width: auto;
+    margin: 50px;
+    color: white;
+}
+
+.logo-text{
+    color:lime
+}
+
+center{
+    background-color: black;
+    opacity:0.8;
+}
+
+.logo.png{
+    opacity: inherit;
+    background-position: center;
+}
+.logo-text{
+    font-size: 30px;
+}
+
+div.rettangolo{
+    background-color: lime;
+    margin: 15px;
+    padding: 15px;
+}
+.button{
+    size: 20px;
+}
+
+div.carico{
+    background-color: lime;
+    margin: 15px;
+    padding: 15px;
+    width: 90px;
+}
+div.quasi-scarico{
+    background-color: orange;
+    margin: 15px;
+    padding: 15px;
+    width: 60px;
+}
+div.scarico{
+    background-color: red;
+    margin: 15px;
+    padding: 15px;
+    width: 30px;
+}
+.rowleft{
+    display: inline-block
+}
